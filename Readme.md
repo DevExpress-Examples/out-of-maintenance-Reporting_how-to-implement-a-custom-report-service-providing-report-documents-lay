@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ClientApp/Form1.cs) (VB: [Form1.vb](./VB/ClientApp/Form1.vb))
+* [Program.cs](./CS/ClientApp/Program.cs) (VB: [Program.vb](./VB/ClientApp/Program.vb))
+* [Reference.cs](./CS/ClientApp/Service References/ReportServiceReference/Reference.cs) (VB: [Reference.vb](./VB/ClientApp/Service References/ReportServiceReference/Reference.vb))
+* [Invoice.cs](./CS/HostApp/DataModels/Invoice.cs) (VB: [Invoice.vb](./VB/HostApp/DataModels/Invoice.vb))
+* [SampleDataSet.cs](./CS/HostApp/DataModels/SampleDataSet.cs) (VB: [SampleDataSet.vb](./VB/HostApp/DataModels/SampleDataSet.vb))
+* [IReportService.cs](./CS/HostApp/IReportService.cs) (VB: [IReportService.vb](./VB/HostApp/IReportService.vb))
+* [Program.cs](./CS/HostApp/Program.cs) (VB: [Program.vb](./VB/HostApp/Program.vb))
+* [InvoicesReport.cs](./CS/HostApp/Reports/InvoicesReport.cs) (VB: [InvoicesReport.vb](./VB/HostApp/Reports/InvoicesReport.vb))
+* [ParametrizedReport.cs](./CS/HostApp/Reports/ParametrizedReport.cs) (VB: [ParametrizedReport.vb](./VB/HostApp/Reports/ParametrizedReport.vb))
+* [SampleDataReport.cs](./CS/HostApp/Reports/SampleDataReport.cs) (VB: [SampleDataReport.vb](./VB/HostApp/Reports/SampleDataReport.vb))
+* [ReportService.cs](./CS/HostApp/ReportService.cs) (VB: [ReportService.vb](./VB/HostApp/ReportService.vb))
+* [Utils.cs](./CS/HostApp/Utils.cs) (VB: [Utils.vb](./VB/HostApp/Utils.vb))
+<!-- default file list end -->
 # How to implement a custom report service providing report documents/layouts
 
 
